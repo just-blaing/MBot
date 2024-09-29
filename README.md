@@ -1,6 +1,10 @@
 ## 🐱MBot - Бот, который будет тебе мило мурчать в гс!
 
-https://github.com/user-attachments/assets/56392188-6089-4319-b049-40971528d626
+
+
+
+https://github.com/user-attachments/assets/8ecc9d82-b459-4caf-bacb-c5cd110ffa3e
+
 
 
 
