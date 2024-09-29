@@ -10,5 +10,5 @@
 Это _source_ этого бота. Чтобы добавить его на сервер вы можете использовать кнопку "Добавить приложение"
 ![Фото для добавления бота](https://raw.githubusercontent.com/Blaing7542/Blaing7542/refs/heads/main/photo.jpg)
 
-Или эту ссылку: ![тык](https://discord.com/oauth2/authorize?client_id=1282246480593289246&permissions=8&integration_type=0&scope=bot+applications.commands)
+Или эту ссылку: [![тык](https://discord.com/oauth2/authorize?client_id=1282246480593289246&permissions=8&integration_type=0&scope=bot+applications.commands)
 
